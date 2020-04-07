@@ -1,7 +1,8 @@
 {
   "globals": {
     "jQuery": true,
-    "$": true
+    "$": true,
+    "Vue": true,
   },
   "env": {
     "browser": true,
